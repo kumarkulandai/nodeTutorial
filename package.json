@@ -1,0 +1,26 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "nodetutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log('Hello world');"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node app.js",
+    "startWindows": "node app.js",
+    "startDev": "node app.js",
+    "startBuild": "node app.js",
+    "lint": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarkulandai/nodeTutorial.git"
+  },
+  "author": "kumar kulandai",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.2"
+  }
+}
